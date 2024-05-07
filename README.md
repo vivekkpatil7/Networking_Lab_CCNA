@@ -52,6 +52,7 @@ This repository contains my projects related to networking CCNA labs, focusing o
    - Protocol Used: [Protocol used here]
    - Documentation: [Link to documentation here]
    - Image: [Link to image here]
+   - 
 9. [RIP Routing Configuration](./  )
    - Description: [Description here]
    - Protocol Used: [Protocol used here]
@@ -59,16 +60,16 @@ This repository contains my projects related to networking CCNA labs, focusing o
    - Image: [Link to image here]
 
 10. [EIGRP Configuration](./  )
-   - Description: [Description here]s
-   - Protocol Used: [Protocol used here]
-   - Documentation: [Link to documentation here]
-   - Image: [Link to image here]
+    - Description: [Description here]s
+    - Protocol Used: [Protocol used here]
+    - Documentation: [Link to documentation here]
+    - Image: [Link to image here]
 
 11. [configure OSPF Routing Protocol](./  )
-   - Description: [Description here]
-   - Protocol Used: [Protocol used here]
-   - Documentation: [Link to documentation here]
-   - Image: [Link to image here]
+    - Description: [Description here]
+    - Protocol Used: [Protocol used here]
+    - Documentation: [Link to documentation here]
+    - Image: [Link to image here]
 
 12. [Multi-Area OSPF Configuration](./  )
     - Description:   
